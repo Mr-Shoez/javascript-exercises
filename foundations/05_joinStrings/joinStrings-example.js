@@ -1,5 +1,5 @@
 const birthYear = 1947;
-const thisYear = 1965;
+let  thisYear = 1965;
 const firstName = "Carlos";
 const lastName = "Stevenson";
 
